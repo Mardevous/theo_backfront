@@ -2,9 +2,9 @@
 
 L’architecture de déploiement
 
-Les secrets utilisés (noms uniquement) :
-SSH-PRIVATE_KEY
-VPS_IP
+Les secrets utilisés (noms uniquement) : <br>
+SSH-PRIVATE_KEY <br>
+VPS_IP <br>
 VPS_USER
 
 Les triggers
