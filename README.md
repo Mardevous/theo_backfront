@@ -1,6 +1,12 @@
 #Read me de fin de TP
 
-L’architecture de déploiement
+L’architecture de déploiement : <br>
+theo_backfront/ <br>
+├── .github/ <br>
+│   └── workflows/<br>
+│       ├── "Nom du fichier.yml" <br>
+├── admin-dashboard/ <br>
+└── backend-API/
 
 Les secrets utilisés (noms uniquement) : <br>
 SSH-PRIVATE_KEY <br>
