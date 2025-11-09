@@ -3,6 +3,9 @@
 L’architecture de déploiement
 
 Les secrets utilisés (noms uniquement) :
+SSH-PRIVATE_KEY
+VPS_IP
+VPS_USER
 
 Les triggers
 
@@ -11,6 +14,7 @@ Le rollback
 **Checklist de validation :**
 
 Les secrets CI sont créés et référencés uniquement par nom dans les workflows :
+
 
 Le build du frontend est produit en CI et uniquement son artefact est déployé sur le VPS :
 
